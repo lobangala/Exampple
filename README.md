@@ -33,7 +33,7 @@ While not required, it is also recommended to replace `icon.png` and `fanart.jpg
 
 Finally, rename the `repository.example` folder to match whatever add-on ID you chose earlier.
 
-### Adding add-ons to your repository
+### Adding add-ons to your repository 33
 ---
 To build the repository, first place the add-on source folders for whichever add-ons you'd like to be contained in your Kodi repo inside this repository. For ease of updating included add-ons, the recommended method of doing this is via [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules), which are supported by many Git clients, as well as the Git terminal. If you choose not to use submodules, you'll need to simply copy the source folders directly into this repository.
 
