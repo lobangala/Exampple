@@ -4,7 +4,7 @@ Tutorial and example repository for setting up a GitHub-hosted Kodi repo. For an
 
 In order to follow this tutorial, first [use this repository as a template](https://github.com/drinfernoo/repository.example/generate) for a new repository, and then clone your newly created repository locally. For the simplest file manager source URL, it is recommended to name your newly created repository as `YOUR_USERNAME_HERE.github.io`.
 
-### Creating your repository add-on12
+### Creating your repository add-on13
 ---
 First, you'll need to edit the `addon.xml` file within the `/repo/repository.example` folder with your chosen add-on ID, a version number, and your username (or whatever you'd like) for `provider`, as seen on line 2:
 
